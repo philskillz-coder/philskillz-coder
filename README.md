@@ -9,7 +9,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/650254133730869258.png)
 
 ### This is my discord server:
-[![Inverse](img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Inverse)](https://discord.gg/ktkXwmD2kF)
+[![Inverse](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Inverse)](https://discord.gg/ktkXwmD2kF)
 
 ### My GitHub stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=philskillz-coder&theme=material-palenight&show_icons=true)
