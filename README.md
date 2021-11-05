@@ -2,8 +2,8 @@
 
 ### I am currently working on:
 - Inverse: 
-     [top.gg](https://top.gg/bot/760179628122964008)
-     [invite](https://discord.com/oauth2/authorize?client_id=760179628122964008&permissions=8&scope=bot)
+     [top.gg](https://top.gg/bot/0)
+     [invite](https://discord.com/oauth2/authorize?client_id=857970159707881472&permissions=8&scope=bot)
 
 ### This is me on discord:
 ![Discord](https://discord.c99.nl/widget/theme-3/650254133730869258.png)
