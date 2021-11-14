@@ -3,7 +3,11 @@
 <h3>I am currently working on&colon;</h3>
 <ul>
      <li>
-          <p><h4>My Discord Bot <a href="https://github.com/philskillz-coder/inverse">Inverse</a>&colon;</h4> <a href="https://top.gg/bot/0">top.gg</a> <a href="https://discord.com/oauth2/authorize?client_id=857970159707881472&permissions=8&scope=bot">Invite</a></p>
+          <h4>My Discord Bot <a href="https://github.com/philskillz-coder/inverse">Inverse</a>&colon;</h4>
+          <p>
+               <a href="https://top.gg/bot/0">top.gg</a><br>
+               <a href="https://discord.com/oauth2/authorize?client_id=857970159707881472&permissions=8&scope=bot">Invite</a>
+          </p>
      </li>
 </ul>
 
