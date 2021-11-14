@@ -1,14 +1,18 @@
 <h1 align="center">Hello there! I am <a href="https://discord.c99.nl/widget/theme-3/650254133730869258.png">Philskillz</a> and i am programming discord bots.</h1>
 
 <h3>I am currently working on&colon;</h3>
-- <h4>My Discord Bot <a href="https://github.com/philskillz-coder/inverse">Inverse</a></h4>: 
-     <a href="https://top.gg/bot/0">top.gg</a>
-     <a href="https://discord.com/oauth2/authorize?client_id=857970159707881472&permissions=8&scope=bot">Invite</a>
+<ul>
+     <li>
+          <h4>My Discord Bot <a href="https://github.com/philskillz-coder/inverse">Inverse</a></h4>&colon; 
+          <a href="https://top.gg/bot/0">top.gg</a>
+          <a href="https://discord.com/oauth2/authorize?client_id=857970159707881472&permissions=8&scope=bot">Invite</a>
+     </li>
+</ul>
 
-<h3>This is me on discord&colon;</h3>
-![Discord](https://discord.c99.nl/widget/theme-3/650254133730869258.png)
+<h3>This is me on Discord&colon;</h3>
+<img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
 
-<h3>This is my discord server&colon;</h3>
+<h3>This is my Discord server&colon;</h3>
 <a href="https://discord.gg/ktkXwmD2kF"><img src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Inverse" alt="my discord server"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philskillz-coder&label=Profile%20views&color=0e75b6&style=flat" alt="philskillz-coder" /> </p>
