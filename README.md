@@ -13,7 +13,7 @@
 </ul>
 
 <h3>GitHub stats&colon;</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=philskillz-coder&theme=material-palenight&show_icons=true" alt="philskillz-coder"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=philskillz-coder&theme=material-palenight&show_icons=true" alt="philskillz-coder"/>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philskillz-coder&label=Profile%20views&color=0e75b6&style=flat" alt="philskillz-coder" /> </p>
 <br>
