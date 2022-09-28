@@ -4,7 +4,7 @@
 <h3>I am currently working on&colon;</h3>
 <ul>
      <li>
-          <h4>My Discord Bot <a href="https://github.com/philskillz-coder/blueshirt">Inverse</a>&colon;</h4>
+          <h4>My Discord Bot <a href="https://github.com/philskillz-coder/blueshirt">BlueShirt</a>&colon;</h4>
      </li>
 </ul>
 
