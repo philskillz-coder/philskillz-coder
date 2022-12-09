@@ -29,9 +29,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/philskillz.coder#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/philskillz.coder#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/discord-light.svg)](https://discord.gg/ktkXwmD2kF#gh-light-mode-only)
-[![website](./img/discord-dark.svg)](https://discord.gg/ktkXwmD2kF#gh-dark-mode-only)
 
 <img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
 
