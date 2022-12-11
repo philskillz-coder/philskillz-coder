@@ -5,6 +5,9 @@
      <li>
           <h4>My Discord Bot <a href="https://github.com/philskillz-coder/blueshirt">BlueShirt</a>&colon;</h4>
      </li>
+     <li>
+          <h4>A <a href="https://github.com/philskillz-coder/minimal-link-shortener">minimal link shortener</a>&colon;</h4>
+     </li>
 </ul>
 
 ### My Github Stats
