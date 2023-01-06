@@ -1,10 +1,7 @@
 <h1 align="center">Hello there! I am <a href="https://discord.c99.nl/widget/theme-3/650254133730869258.png">Philskillz</a> and i am programming discord bots.</h1>
 
-### I am currently working on
+### My most recent projects
 <ul>
-     <li>
-          <h4>My Discord Bot <a href="https://github.com/philskillz-coder/blueshirt">BlueShirt</a>&colon;</h4>
-     </li>
      <li>
           <h4>A <a href="https://github.com/philskillz-coder/minimal-link-shortener">minimal link shortener</a>&colon;</h4>
      </li>
