@@ -6,7 +6,7 @@
           <h4>My discord <a href="https://github.com/philskillz-coder/pollz-discord">pollz</a></h4>
      </li>
      <li>
-          <h4>✨ <a href="https://github.com/philskillz-coder/img-text-art">Image to text art</a></h4>
+          <h4>✨ <a href="https://github.com/philskillz-coder/img-to-text-art">Image to text art</a></h4>
      </li>
 </ul>
 
