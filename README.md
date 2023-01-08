@@ -3,7 +3,10 @@
 ### My most recent projects
 <ul>
      <li>
-          <h4>A <a href="https://github.com/philskillz-coder/minimal-link-shortener">minimal link shortener</a>&colon;</h4>
+          <h4>My discord <a href="https://github.com/philskillz-coder/pollz-discord">pollz</a>/h4>
+     </li>
+     <li>
+          ✨ <h4><a href="https://github.com/philskillz-coder/img-text-art">Image to text art</a>&</h4>
      </li>
 </ul>
 
