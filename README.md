@@ -6,7 +6,7 @@
           <h4>My discord <a href="https://github.com/philskillz-coder/pollz-discord">pollz</a></h4>
      </li>
      <li>
-          <h4>✨ <a href="https://github.com/philskillz-coder/itaa">Itaa | [I]mage [t]o [t]ext [a]rt</a></h4>
+          <h4>✨ <a href="https://github.com/philskillz-coder/itaa">Itaa | [I]mage [t]o [a]scii [a]rt</a></h4>
      </li>
 </ul>
 
