@@ -3,6 +3,9 @@
 ### My most recent projects
 <ul>
      <li>
+          <h4>✨ <a href="https://github.com/philskillz-coder/turing-complete-compiler">Turing complete compiler</a></h4>
+     </li>
+     <li>
           <h4>✨ <a href="https://github.com/philskillz-coder/itaa">Itaa | [I]mage [t]o [a]scii [a]rt</a></h4>
      </li>
 </ul>
