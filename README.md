@@ -1,4 +1,6 @@
-<h1 align="center">Hello there! I am <a href="https://discord.c99.nl/widget/theme-3/650254133730869258.png">Philskillz</a> and i am programming discord bots.</h1>
+<h1 align="center">Hello there! I am <span style="color: #5c0d2a">Philskillz</span></h1>
+<h6 style="color: #7A7A7A">Watch out! A flying ad is incomming!</h6>
+<br>
 
 ## I'm selling discord bots on Fiverr: https://de.fiverr.com/s/3R6QQr
 
@@ -8,7 +10,7 @@
           <h4>✨ <a href="https://github.com/philskillz-coder/turing-complete-compiler">Turing complete compiler</a></h4>
      </li>
      <li>
-          <h4>✨ <a href="https://github.com/philskillz-coder/itaa">Itaa | [I]mage [t]o [a]scii [a]rt</a></h4>
+          <h4>✨ <a href="https://github.com/philskillz-coder/noten.theskz.dev">Grade Calculator</a></h4>
      </li>
 </ul>
 
