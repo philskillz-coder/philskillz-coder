@@ -10,7 +10,7 @@
           <h4>✨ <a href="https://github.com/philskillz-coder/turing-complete-compiler">Turing complete compiler</a></h4>
      </li>
      <li>
-          <h4>✨ <a href="[https://github.com/philskillz-coder/noten.theskz.dev](https://github.com/philskillz-coder/AccessWardenTs)">AccessWardenTs</a></h4>
+          <h4>✨ <a href="https://github.com/philskillz-coder/AccessWardenTs">AccessWardenTs</a></h4>
      </li>
 </ul>
 
