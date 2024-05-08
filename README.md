@@ -1,8 +1,4 @@
 <h1 align="center">Hello there! I am <span style="color: #5c0d2a">Philskillz</span></h1>
-<h6 style="color: #7A7A7A">Watch out! A flying ad is incomming!</h6>
-<br>
-
-## I'm selling discord bots on Fiverr: https://de.fiverr.com/s/3R6QQr
 
 ### My most recent projects
 <ul>
