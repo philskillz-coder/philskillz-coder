@@ -26,8 +26,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/philskz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/philskz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/theskz#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/theskz#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/philippwill#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/philippwill#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/philskillz.coder#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/philskillz.coder#gh-dark-mode-only)
