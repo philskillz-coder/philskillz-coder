@@ -15,6 +15,10 @@
 <br>
 <br>
 
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://theskz.dev#gh-light-mode-only)
