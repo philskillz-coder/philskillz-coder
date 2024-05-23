@@ -1,17 +1,11 @@
-<h1 align="center">Hello there! I am <span style="color: #5c0d2a">Philskillz</span></h1>
+## About me 👋
+I'm Phil, an 18-year-old programming enthusiast passionate about exploring different languages and frameworks. Currently delving into cybersecurity and military tech alongside coding.
 
-### My most recent projects
-<ul>
-     <li>
-          <h4>✨ <a href="https://github.com/philskillz-coder/turing-complete-compiler">Turing complete compiler</a></h4>
-     </li>
-     <li>
-          <h4>✨ <a href="https://github.com/philskillz-coder/AccessWardenTs">AccessWardenTs</a></h4>
-     </li>
-</ul>
+When not at the keyboard, you'll find me outdoors—hiking, climbing, and running in the mountains. Check out my adventures on [Instagram](https://instagram.com/philskillz.coder) and connect with me at [connections](#connect-with-me) 
 
-### My Github Stats
+### My GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=philskillz-coder&theme=material-palenight&show_icons=true" alt="philskillz-coder"/>
+
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
@@ -20,28 +14,34 @@
 5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
-<br><br>
-
+<p style="color: grey">
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, May 23rd, 2024, 10:33:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+</p>
+
+
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://theskz.dev#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://theskz.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/@philskz#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/@philskz#gh-dark-mode-only)
+[![website](./img/discord-light.svg)](https://theskz.dev/dc#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](https://theskz.dev/dc#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/philskz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/philskz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/philippwill#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/philippwill#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/@philskz#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@philskz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/philskillz.coder#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/philskillz.coder#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/philippwill#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/philippwill#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
 <br />
