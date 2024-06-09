@@ -1,7 +1,7 @@
 ## About me 👋
 I'm Phil, an 18-year-old programming enthusiast passionate about exploring different languages and frameworks. Currently delving into cybersecurity and military tech alongside coding.
 
-When not at the keyboard, you'll find me outdoors—hiking, climbing, and running in the mountains. Check out my adventures on [Instagram](https://instagram.com/philskillz.coder) and connect with me at [connections](#connect-with-me) 
+When not at the keyboard, you'll find me outdoors—hiking, climbing, and running in the mountains. Check out my adventures on [Instagram](https://instagram.com/philskillz.coder) and [connect with me](#connect-with-me) 
 
 ### My GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=philskillz-coder&theme=material-palenight&show_icons=true" alt="philskillz-coder"/>
