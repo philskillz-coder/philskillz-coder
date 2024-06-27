@@ -8,15 +8,15 @@ When not at the keyboard, you'll find me outdoors—hiking, climbing, and runnin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2022 - To: 26 June 2024
+From: 27 May 2024 - To: 26 June 2024
 
-Total Time: 1,176 hrs 42 mins
+Total Time: 31 hrs 1 min
 
-Python                 365 hrs 6 mins  >>>>>>>>-----------------   31.03 %
-TypeScript             204 hrs 12 mins >>>>---------------------   17.35 %
-C#                     136 hrs 28 mins >>>----------------------   11.60 %
-Java                   119 hrs 59 mins >>>----------------------   10.20 %
-HTML                   85 hrs 36 mins  >>-----------------------   07.28 %
+Python             15 hrs 9 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.85 %
+Java               11 hrs 14 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.22 %
+JSON               1 hr 54 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.13 %
+HTML               47 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 %
+Binary             30 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.62 %
 ```
 
 <!--END_SECTION:waka-->
