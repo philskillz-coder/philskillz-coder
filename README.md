@@ -3,8 +3,19 @@ I'm Phil, an 18-year-old programming enthusiast passionate about exploring diffe
 
 When not at the keyboard, you'll find me outdoors—hiking, climbing, and running in the mountains. Check out my adventures on [Instagram](https://instagram.com/philskillz.coder) and [connect with me](#connect-with-me) 
 
+---
+📊 **How much time i spend programming**
+<!--START_SECTION:waka-->
+
+```txt
+```
+
+<!--END_SECTION:waka-->
+
+<!-- 
 ### My GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=philskillz-coder&theme=material-palenight&show_icons=true" alt="philskillz-coder"/>
+-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#1595](https://github.com/jagrosh/MusicBot/issues/1595) in [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot)<br>
