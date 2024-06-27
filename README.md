@@ -15,9 +15,6 @@ When not at the keyboard, you'll find me outdoors—hiking, climbing, and runnin
 <!--RECENT_ACTIVITY:end-->
 
 <p style="color: grey">
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 27th, 2024, 4:38:46 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 </p>
 
 
