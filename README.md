@@ -27,11 +27,11 @@ Binary             30 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1595](https://github.com/jagrosh/MusicBot/issues/1595) in [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot)<br>
+1. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder](https://github.com/philskillz-coder/philskillz-coder)<br>
 2. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder](https://github.com/philskillz-coder/philskillz-coder)<br>
 3. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder](https://github.com/philskillz-coder/philskillz-coder)<br>
-4. ⬆️ Pushed 1 commit(s) to [philskillz-coder/java-math-expression-parser](https://github.com/philskillz-coder/java-math-expression-parser)<br>
-5. ⬆️ Pushed 1 commit(s) to [philskillz-coder/java-math-expression-parser](https://github.com/philskillz-coder/java-math-expression-parser)<br>
+4. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
+5. ❗️ Opened issue [#1595](https://github.com/jagrosh/MusicBot/issues/1595) in [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p style="color: grey">
