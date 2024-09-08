@@ -27,11 +27,11 @@ C++                12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [philskillz-coder/gspread_asyncio](https://github.com/philskillz-coder/gspread_asyncio) from [dgilman/gspread_asyncio](https://github.com/dgilman/gspread_asyncio)<br>
-2. ❗️ Opened issue [#73](https://github.com/dgilman/gspread_asyncio/issues/73) in [dgilman/gspread_asyncio](https://github.com/dgilman/gspread_asyncio)<br>
-3. ⬆️ Pushed 1 commit(s) to [philskillz-coder/discord-py-paginator](https://github.com/philskillz-coder/discord-py-paginator)<br>
-4. ⬆️ Pushed 2 commit(s) to [philskillz-school/round-robin-projekt](https://github.com/philskillz-school/round-robin-projekt)<br>
-5. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder](https://github.com/philskillz-coder/philskillz-coder)<br>
+1. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
+2. 🔱 Forked [philskillz-coder/gspread_asyncio](https://github.com/philskillz-coder/gspread_asyncio) from [dgilman/gspread_asyncio](https://github.com/dgilman/gspread_asyncio)<br>
+3. ❗️ Opened issue [#73](https://github.com/dgilman/gspread_asyncio/issues/73) in [dgilman/gspread_asyncio](https://github.com/dgilman/gspread_asyncio)<br>
+4. ⬆️ Pushed 1 commit(s) to [philskillz-coder/discord-py-paginator](https://github.com/philskillz-coder/discord-py-paginator)<br>
+5. ⬆️ Pushed 2 commit(s) to [philskillz-school/round-robin-projekt](https://github.com/philskillz-school/round-robin-projekt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p style="color: grey">
