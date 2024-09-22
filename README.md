@@ -27,20 +27,20 @@ Last Updated: Thursday, May 23rd, 2024, 11:33:49 PM
 [![website](./img/globe-light.svg)](https://theskz.dev#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://theskz.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/discord-light.svg)](https://theskz.dev/dc#gh-light-mode-only)
-[![website](./img/discord-dark.svg)](https://theskz.dev/dc#gh-dark-mode-only)
+[![website](./img/discord-light.svg)](https://theskz.dev/s/discord#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](https://theskz.dev/s/discord#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/philskz#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/philskz#gh-dark-mode-only)
+[![website](./img/x-light.svg)](https://theskz.dev/s/x#gh-light-mode-only)
+[![website](./img/x-dark.svg)](https://theskz.dev/s/x#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/@philskz#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/@philskz#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://theskz.dev/s/youtube#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://theskz.dev/s/youtube#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/philskillz.coder#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/philskillz.coder#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://theskz.dev/s/instagram#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://theskz.dev/s/instagram#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/philippwill#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/philippwill#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://theskz.dev/s/linkedin#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://theskz.dev/s/linkedin#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 <img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
@@ -49,19 +49,34 @@ Last Updated: Thursday, May 23rd, 2024, 11:33:49 PM
 <br />
 
 ### Tools and Languages:
-
-<img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" style="padding-right:10px;" />
-<img align="left" title="Intellij" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
-<img align="left" title="Pycharm" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" title="Android Studio" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;"/>
-
-<img align="left" title="Postgresql" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
-<img align="left" title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-<img align="left" title="Github" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>
-
-<img align="left" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
-<img align="left" title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" title="CSharp" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
-<img align="left" title="Bash" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;"/>
+![C\#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
