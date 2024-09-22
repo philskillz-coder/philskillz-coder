@@ -6,7 +6,28 @@
 - 👤 I'm a programming and military enthusiast passionate about expanding my horizons
 - 💼 I'm currently going to school and practicing for my future career at the german armed forces
 - 🌱 When outside, you'll find me hiking, climbing, and running in the mountains
-- 📫 How to reach me: [Connect with me](#connect-with-me)
+- 📫 How to reach me:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![website](./img/globe-light.svg)](https://theskz.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://theskz.dev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/discord-light.svg)](https://theskz.dev/s/discord#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](https://theskz.dev/s/discord#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/x-light.svg)](https://theskz.dev/s/x#gh-light-mode-only)
+[![website](./img/x-dark.svg)](https://theskz.dev/s/x#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://theskz.dev/s/youtube#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://theskz.dev/s/youtube#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://theskz.dev/s/instagram#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://theskz.dev/s/instagram#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://theskz.dev/s/linkedin#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://theskz.dev/s/linkedin#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
 
 ---
 
@@ -43,23 +64,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-![Contributions](img/)
+![Contributions](img/metrics.svg)
 
-📊 **How much time I spend programming**
+📊 **Recent activity**
 <!--START_SECTION:waka-->
-
-```txt
-From: 22 August 2024 - To: 21 September 2024
-
-Total Time: 28 hrs 23 mins
-
-Python             21 hrs 17 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀   75.00 %
-HTML               2 hrs 17 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.09 %
-SQL                2 hrs 16 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.01 %
-JSON               1 hr 19 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.67 %
-Java               16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.99 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- 
@@ -74,34 +82,3 @@ Java               16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 4. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
-
-<p style="color: grey">
-</p>
-
-
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://theskz.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://theskz.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/discord-light.svg)](https://theskz.dev/s/discord#gh-light-mode-only)
-[![website](./img/discord-dark.svg)](https://theskz.dev/s/discord#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/x-light.svg)](https://theskz.dev/s/x#gh-light-mode-only)
-[![website](./img/x-dark.svg)](https://theskz.dev/s/x#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://theskz.dev/s/youtube#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://theskz.dev/s/youtube#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://theskz.dev/s/instagram#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://theskz.dev/s/instagram#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://theskz.dev/s/linkedin#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://theskz.dev/s/linkedin#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-<img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
-<br />
-<br />
-<br />
