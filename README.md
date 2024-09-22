@@ -1,7 +1,5 @@
 # Hello fellows 👋
 
----
-
 - 👋 Hi, I'm Phil
 - 👤 I'm a programming and military enthusiast passionate about expanding my horizons
 - 💼 I'm currently going to school and practicing for my future career at the german armed forces
@@ -28,8 +26,6 @@
 &nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
-
----
 
 ## Languages and Tools:
 ![C\#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -66,7 +62,7 @@
 
 ![Contributions](img/metrics.svg)
 
-📊 **Recent activity**
+## 📊 Recent activity
 <!--START_SECTION:waka-->
 
 ```txt
