@@ -1,23 +1,40 @@
 ## About me 👋
 I'm Phil, an 18-year-old programming enthusiast passionate about exploring different languages and frameworks. Currently delving into cybersecurity and military tech alongside coding.
 
-When not at the keyboard, you'll find me outdoors—hiking, climbing, and running in the mountains. Check out my adventures on [Instagram](https://instagram.com/philskillz.coder) and connect with me at [connections](#connect-with-me) 
+When not at the keyboard, you'll find me outdoors—hiking, climbing, and running in the mountains. Check out my adventures on [Instagram](https://instagram.com/philskillz.coder) and [connect with me](#connect-with-me) 
 
+---
+📊 **How much time i spend programming**
+<!--START_SECTION:waka-->
+
+```txt
+From: 21 August 2024 - To: 20 September 2024
+
+Total Time: 30 hrs 10 mins
+
+Python             22 hrs 26 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.37 %
+HTML               2 hrs 17 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.61 %
+SQL                2 hrs 16 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.53 %
+JSON               1 hr 57 mins    ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.47 %
+Java               16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.93 %
+```
+
+<!--END_SECTION:waka-->
+
+<!-- 
 ### My GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=philskillz-coder&theme=material-palenight&show_icons=true" alt="philskillz-coder"/>
+-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+1. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [philskillz-coder/philskillz-coder.github.io](https://github.com/philskillz-coder/philskillz-coder.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p style="color: grey">
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 23rd, 2024, 11:33:49 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 </p>
 
 

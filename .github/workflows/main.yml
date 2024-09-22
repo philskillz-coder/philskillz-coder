@@ -1,14 +1,14 @@
-name: Update README
+name: Update recent activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: '* */3 * * *' # Update every 3 hours
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
+    name: Update recent actvity
 
     steps:
       - uses: actions/checkout@v2.3.4
