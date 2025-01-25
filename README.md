@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2025 - To: 22 January 2025
+From: 16 January 2025 - To: 23 January 2025
 
-Total Time: 2 hrs 42 mins
+Total Time: 1 hr 58 mins
 
-Python                             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.21 %
-JSON                               ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.45 %
-SQL                                ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.20 %
+Python                             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.94 %
+JSON                               ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.42 %
+SQL                                ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.43 %
 ```
 
 <!--END_SECTION:waka-->
