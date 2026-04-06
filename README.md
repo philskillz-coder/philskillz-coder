@@ -84,8 +84,8 @@ textmate                                  ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
-2. 👍 Approved [#2](https://github.com/philskillz-coder/compiler/pull/2#pullrequestreview-4043976922) in [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
-3. ❌ Closed PR [#1](undefined) in [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
-4. 👍 Approved [#1](https://github.com/philskillz-coder/compiler/pull/1#pullrequestreview-4035984306) in [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
-5. ⬆️ Pushed undefined commit(s) to [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
+2. ⬆️ Pushed undefined commit(s) to [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
+3. 👍 Approved [#2](https://github.com/philskillz-coder/compiler/pull/2#pullrequestreview-4043976922) in [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
+4. ❌ Closed PR [#1](undefined) in [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
+5. 👍 Approved [#1](https://github.com/philskillz-coder/compiler/pull/1#pullrequestreview-4035984306) in [philskillz-coder/compiler](https://github.com/philskillz-coder/compiler)<br>
 <!--RECENT_ACTIVITY:end-->
