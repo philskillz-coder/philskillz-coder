@@ -9,20 +9,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![website](./img/globe-light.svg)](https://theskz.dev#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://theskz.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/discord-light.svg)](https://i.theskz.dev/go/discord?src=discord#gh-light-mode-only)
-[![website](./img/discord-dark.svg)](https://i.theskz.dev/go/discord?src=discord#gh-dark-mode-only)
+[![website](./img/discord-light.svg)](https://i.theskz.dev/go/discord?src=github#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](https://i.theskz.dev/go/discord?src=github#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/x-light.svg)](https://i.theskz.dev/go/x?src=x#gh-light-mode-only)
-[![website](./img/x-dark.svg)](https://i.theskz.dev/go/x?src=x#gh-dark-mode-only)
+[![website](./img/x-light.svg)](https://i.theskz.dev/go/x?src=github#gh-light-mode-only)
+[![website](./img/x-dark.svg)](https://i.theskz.dev/go/x?src=github#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://i.theskz.dev/go/youtube?src=youtube#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://i.theskz.dev/go/youtube?src=youtube#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://i.theskz.dev/go/youtube?src=github#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://i.theskz.dev/go/youtube?src=github#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://i.theskz.dev/go/instagram?src=instagram#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://i.theskz.dev/go/instagram?src=instagram#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://i.theskz.dev/go/instagram?src=github#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://i.theskz.dev/go/instagram?src=github#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://i.theskz.dev/go/linkedin?src=linkedin#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://i.theskz.dev/go/linkedin?src=linkedin#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://i.theskz.dev/go/linkedin?src=github#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://i.theskz.dev/go/linkedin?src=github#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://discord.c99.nl/widget/theme-3/650254133730869258.png" alt="philskillz-coder on discord"/>
